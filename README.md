@@ -2,9 +2,6 @@
 Hello! My name is Pierre. I earned a technical degree in Systems Analysis and Development during high school, and I am currently pursuing a bachelor’s degree in Software Engineering.<br><br>I have strong skills in application and system programming. My proficiency in English allows me to work effectively in international environments and collaborate on projects of various scales.<br><br>I am seeking an opportunity where I can apply my knowledge, learn from experienced professionals, and grow alongside the company. I am committed, dedicated, and always ready to face new challenges!
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-savelli/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pierre.savelli.dev@gmail.com) 
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
