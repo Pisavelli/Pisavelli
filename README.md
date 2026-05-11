@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineering Student | Projects and Innovation Intern | Project Management | Automation | Java | Python | MySQL | Web Programming
+Software Engineering Student | Projects and Innovation Intern | Project Management | Automation
 
 
 # 💻 Tech Stack:
